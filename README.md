@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Laia Navarro (@laianav)
+- 👀 I’m interested in Rust right now, and programming languages in general.
+- 🌱 I’m currently learning Rust
